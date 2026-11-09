@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below (and the associated paper once published)."
+title: "Subtropical ridge latitude in ERA5 (1966-2025): analysis code"
+type: software
+version: "1.0.0"
+date-released: "2026-11-09"   # update at release time
+license: MIT
+authors:
+  - family-names: Ghamari
+    given-names: Khabat
+    email: ghamari.kh@ut.ac.ir
+    affiliation: "Kurdistan Provincial Meteorological Office, Iran Meteorological Organization, Sanandaj, Iran"
+  - family-names: Seyedzahedi
+    given-names: Asrin
+    affiliation: "Physics Department, University of Kurdistan, Sanandaj, Iran"
+repository-code: "https://github.com/YOUR-USERNAME/subtropical-ridge-era5"   # update
+# doi: "10.5281/zenodo.XXXXXXX"   # add after the Zenodo release
+keywords:
+  - subtropical ridge
+  - Hadley circulation
+  - tropical widening
+  - ERA5
+  - CERES
+  - CLARA-A3
+  - trend robustness
